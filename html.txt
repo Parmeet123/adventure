@@ -1,0 +1,31 @@
+﻿<! doctype html>
+
+<HTML>
+	<HEAD>
+		<TITLE>h</TITLE>
+		<meta charest= 'utf-8'>
+		<meta name= 'description' content='pure vegetarian food '>
+		<meta name='keywards' content='dal makhani,shahi paneer,Indian sweets,jalabi'>
+		<meta name='author' content='harskk7@gmail.com'>
+		
+    </HEAD>
+	
+	<BODY>
+		<ol>
+			<li>singh
+				<ul>
+				<li> Harshpreet kaur</li>
+				<li> moga</li>
+				
+				<li> Punjab,INDIA</li>
+	            </ul>
+		
+		<ol>
+			<ul>
+			<li>sushil</li>
+			<li>brampton</li>
+			<li>on</li>
+			<ul/>
+		</o1>
+	</body>
+</html>
